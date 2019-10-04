@@ -1,7 +1,7 @@
 # Backend
 /backend/node_modules
 
-*png
-*jpg
+*.png
+*.jpg
 
 yarn.lock

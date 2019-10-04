@@ -1,0 +1,6 @@
+# Backend
+/backend/node_modules
+
+*png
+
+yarn.lock
